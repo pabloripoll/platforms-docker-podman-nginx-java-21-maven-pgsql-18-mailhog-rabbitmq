@@ -12,12 +12,12 @@
 
 ## <a id="features"></a>Features
 
-![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white)
-![Debian](https://img.shields.io/badge/debian-red?style=for-the-badge&logo=debian&logoColor=orange&color=darkred)
+![Alpine Linux](https://shields.io/badge/Alpine_Linux-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white)
+![Debian](https://shields.io/badge/debian-red?style=for-the-badge&logo=debian&logoColor=orange&color=darkred)
 ![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=fff)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Maven](https://img.shields.io/badge/MAVEN-000000?style=for-the-badge&logo=apachemaven&logoColor=blue)
+![Nginx](https://shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Java](https://shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Maven](https://shields.io/badge/MAVEN-000000?style=for-the-badge&logo=apachemaven&logoColor=blue)
 
 Content:
 - Linux Alpine 3.24
@@ -29,8 +29,8 @@ Content:
 
 It can be installed the most known **JAVA** frameworks:
 
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/springboot-000000?style=for-the-badge&logo=springboot&logoColor=green)
+![Spring](https://shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://shields.io/badge/springboot-000000?style=for-the-badge&logo=springboot&logoColor=green)
 
 - [Spring](https://spring.io/)
 - [Spring Boot 3](https://spring.io/blog/2022/05/24/preparing-for-spring-boot-3-0)
